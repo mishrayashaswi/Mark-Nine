@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+.App {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  padding-top: 12.5rem;
+  /* background-color: rgb(228, 255, 244); */
+  min-height: 100vh;
+}
+
+.bg-color {
+  background-color: #6bfaff;
+  /* padding: 3.25rem; */
+}
+.rating {
+  font-size: smaller;
+  text-align: right;
+}
+.name-style {
+  list-style: none;
+  background-color: #6bfaff;
+  padding: 1rem 0.7rem;
+  width: 70%;
+  border: 1px solid grey;
+  margin: 1rem auto;
+  border-radius: 0.5rem;
+}
